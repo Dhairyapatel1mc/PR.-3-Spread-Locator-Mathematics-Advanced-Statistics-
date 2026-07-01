@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Derivable%20Judgement&fontSize=52&fontAlignY=38&desc=A%20Statistical%20Decision-Making%20Model&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Spread%20Locator&fontSize=52&fontAlignY=38&desc=A%20Statistical%20Distribution%20Analysis%20Model&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -24,6 +24,8 @@
   &nbsp;
   <a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
+
+---
 
 ---
 
@@ -263,11 +265,13 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 ## <a id="-author"></a>👤 Author
 
-<!-- 🔧 Add your details below -->
-
-**[Your Name]**
-📧 [your.email@example.com]
-🔗 [Portfolio / Website]
+<p align="center">
+  <a href="https://github.com/Dhairyapatel1mc"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ghost-patel-0267663b7/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
 
 **[⬆ Back to top](#toc)**
 
