@@ -1,27 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Derivable%20Judgement&fontSize=52&fontAlignY=38&desc=A%20Statistical%20Decision-Making%20Model&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:F37626&height=200&section=header&text=Spread%20Locator&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%26%20Advanced%20Statistics&descAlignY=55&descSize=18)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Statistical+Distribution+Analysis;Bernoulli+%7C+Binomial+%7C+Poisson;Log-Normal+%7C+Power+Law+%7C+Box-Cox;Built+with+Python+%26+Jupyter+Notebook" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-2D7D7D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Course-Mathematics%20%26%20Advanced%20Statistics-C9A84C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Institute-Red%20%26%20White%20Skill%20Education-A0394A?style=flat-square"/>
+</p>
 
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-<br>
-
-<!-- 🔧 Replace YOUR_USERNAME with your actual handles -->
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhairyapatel1mc)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Dhairyapatel1mc"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ghost-patel-0267663b7/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
 
 ---
 
