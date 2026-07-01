@@ -112,6 +112,7 @@ Working as a data analyst for an e-commerce platform, the goal is to help manage
 ```
 .
 ├── README.md                          # You are here
+├── Video                              # Watch Explanation Video 
 ├── spread_locator_Part_A.ipynb        # Part A — Descriptive statistics & spread analysis
 ├── spread_locator_Part_B.ipynb        # Part B — Distribution fitting & hypothesis testing
 ├── spread_locator_dataset.xls         # Source transaction dataset
