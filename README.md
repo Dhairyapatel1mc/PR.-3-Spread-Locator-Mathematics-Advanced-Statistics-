@@ -265,13 +265,29 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 ## <a id="-author"></a>👤 Author
 
-<p align="center">
-  <a href="https://github.com/Dhairyapatel1mc"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ghost-patel-0267663b7/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
+<table>
+<tr>
+<td valign="top">
+
+**Ghost (Patel Dhairya)**
+
+- 🏫 Red and White Skill Education (RWSkill)
+- 💻 GitHub — [@Dhairyapatel1mc](https://github.com/Dhairyapatel1mc)
+- 💼 LinkedIn — [ghost-patel](https://www.linkedin.com/in/ghost-patel-0267663b7/)
+- 📷 Instagram — [@ghost_6927](https://www.instagram.com/ghost_6927/?hl=en)
+
+</td>
+<td align="center" valign="middle">
+
+<a href="https://github.com/Dhairyapatel1mc"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ghost-patel-0267663b7/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+&nbsp;
+<a href="https://www.instagram.com/ghost_6927/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+
+</td>
+</tr>
+</table>
 
 **[⬆ Back to top](#toc)**
 
@@ -279,7 +295,12 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 ## <a id="-support"></a>⭐ Support
 
-If this project helped you understand distribution fitting or hypothesis testing, consider giving it a ⭐ on GitHub — it helps others find it too.
+If this project helped you:
+
+- ⭐ **Star** this repository
+- 🍴 **Fork** it and adapt it for your own dataset
+- 📤 **Share** it with your classmates
+- 💬 **Open an Issue** for suggestions or bugs
 
 **[⬆ Back to top](#toc)**
 
